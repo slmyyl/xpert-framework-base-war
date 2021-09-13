@@ -55,7 +55,7 @@
         <dependency>
             <groupId>com.xpert</groupId>
             <artifactId>xpert-framework</artifactId>
-            <version>1.9.0</version>
+            <version>1.8.3</version>
         </dependency>
         <dependency>
             <groupId>org.primefaces</groupId>
